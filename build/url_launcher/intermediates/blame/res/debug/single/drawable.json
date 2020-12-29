@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/erencanerel/Desktop/work/flutter/news/build/url_launcher/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/Users/erencanerel/.gradle/caches/transforms-2/files-2.1/c82bf40584b9a53c31dba07a8a48f301/core-1.1.0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/erencanerel/Desktop/work/flutter/news/build/url_launcher/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/Users/erencanerel/.gradle/caches/transforms-2/files-2.1/c82bf40584b9a53c31dba07a8a48f301/core-1.1.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/erencanerel/Desktop/work/flutter/news/build/url_launcher/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/Users/erencanerel/.gradle/caches/transforms-2/files-2.1/c82bf40584b9a53c31dba07a8a48f301/core-1.1.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/erencanerel/Desktop/work/flutter/news/build/url_launcher/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/Users/erencanerel/.gradle/caches/transforms-2/files-2.1/c82bf40584b9a53c31dba07a8a48f301/core-1.1.0/res/drawable/notification_tile_bg.xml"
+    }
+]

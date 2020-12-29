@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "440964495124",
+    "project_id": "multicamp-4525c",
+    "storage_bucket": "multicamp-4525c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440964495124:android:c4b82a29a0aea0399f3401",
+        "android_client_info": {
+          "package_name": "com.example.news"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440964495124-pki834maf5fknhtdfr2qmin85oj4g8op.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChYe6HbJyaP4aXGV5lQ0fojkcoWBQcA7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440964495124-pki834maf5fknhtdfr2qmin85oj4g8op.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "440964495124-hqu6d01m7ti56b06134lovdv1vlb9eje.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.news"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

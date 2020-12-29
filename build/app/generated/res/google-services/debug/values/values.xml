@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">440964495124-pki834maf5fknhtdfr2qmin85oj4g8op.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">440964495124</string>
+    <string name="google_api_key" translatable="false">AIzaSyChYe6HbJyaP4aXGV5lQ0fojkcoWBQcA7c</string>
+    <string name="google_app_id" translatable="false">1:440964495124:android:c4b82a29a0aea0399f3401</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyChYe6HbJyaP4aXGV5lQ0fojkcoWBQcA7c</string>
+    <string name="google_storage_bucket" translatable="false">multicamp-4525c.appspot.com</string>
+    <string name="project_id" translatable="false">multicamp-4525c</string>
+</resources>
