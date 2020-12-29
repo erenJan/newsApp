@@ -1,5 +1,5 @@
 # newsApp
-Its build-in Flutter Dart.
+Its build-in Flutter Dart.Cross-platform flutter project.
 ![NewsApp IOS Demo](preview/ios_demo.gif)
 
 ISSUES:
